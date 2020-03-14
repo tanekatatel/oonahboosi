@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gahjoojoo.un2t.cc/sitemap.xml
